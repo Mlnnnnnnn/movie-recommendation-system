@@ -12,6 +12,7 @@
 
 3. Гибридный подход
    Объединяет рекомендации обоих методов, убирает дубликаты и возвращает топ‑N фильмов.
+   
 Инструменты: python, pandas, numpy, matplotlib, seaborn, scikit-learn, implicit, scipy, jupiter notebook, датасет MovieLens Latest Small
 
 
